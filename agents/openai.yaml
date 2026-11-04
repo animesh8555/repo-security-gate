@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Security Gate"
+  short_description: "Check repositories before installing or running them"
+  default_prompt: "Use $repo-security-gate to audit my installed repositories or review and fix this repository before installing it."

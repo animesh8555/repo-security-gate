@@ -1,0 +1,9 @@
+# Local review reports may contain sensitive findings.
+.env
+.env.*
+*.pem
+*.key
+reports/
+__pycache__/
+.DS_Store
+Thumbs.db
