@@ -1,5 +1,9 @@
 # Repository Security Gate
 
+<p align="center">
+  <img src="logo.png" alt="Repository Security Gate shield and code gate logo" width="192" height="192">
+</p>
+
 Review a repository before giving it access to your machine, credentials, or network.
 
 Repository Security Gate is a reusable set of instructions for coding agents. It asks the agent to pause an installation, inspect the code and dependencies, fix supported findings, and verify the result before continuing.
