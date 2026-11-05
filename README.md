@@ -37,6 +37,12 @@ To make review a standing instruction, add a reference to your agent's supported
 
 Resolve that reference to your actual local path. Instruction discovery differs by agent; verify that yours loads it. There is no universal automatic-install hook in this project.
 
+## Get it on Agensi
+
+[Use Repository Security Gate for free on Agensi](https://www.agensi.io/skills/repository-security-gate).
+
+The same workflow is available here under the [MIT license](LICENSE).
+
 ## What it checks
 
 - API keys and other secrets in code, history, logs, and browser bundles.
